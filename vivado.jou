@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sun Apr 23 09:57:12 2023
+# Process ID: 11948
+# Current directory: C:/Users/Sumit/Desktop/16bitcla/sumit_16bit_cla
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7688 C:\Users\Sumit\Desktop\16bitcla\sumit_16bit_cla\sumit_16bit_cla.xpr
+# Log file: C:/Users/Sumit/Desktop/16bitcla/sumit_16bit_cla/vivado.log
+# Journal file: C:/Users/Sumit/Desktop/16bitcla/sumit_16bit_cla\vivado.jou
+# Running On: sumit, OS: Windows, CPU Frequency: 2496 MHz, CPU Physical cores: 4, Host memory: 8327 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Sumit/Desktop/16bitcla/sumit_16bit_cla/sumit_16bit_cla.xpr
+update_compile_order -fileset sources_1
